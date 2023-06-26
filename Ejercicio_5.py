@@ -58,3 +58,5 @@ empresa.nuevoEmpleado("Empleado1", "Empleado", empresa.raiz.Subordinados[0])
 empresa.nuevoEmpleado("Empleado2", "Empleado", empresa.raiz.Subordinados[0])
 empresa.nuevoEmpleado("Empleado3", "Empleado", empresa.raiz.Subordinados[0])
 empresa.nuevoEmpleado("Empleado4", "Empleado", empresa.raiz.Subordinados[0])
+
+empresa.jerarquia()
