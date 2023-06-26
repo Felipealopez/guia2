@@ -1,5 +1,3 @@
-
-
 class Empleado:
     def __init__(self, nombre, cargo):
         self.nombreEmpleado = nombre
